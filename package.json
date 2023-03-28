@@ -1,0 +1,26 @@
+{
+  "name": "ebac-modulo11",
+  "version": "1.0.0",
+  "description": "- Criar um repositório no github;\r - Clonar o repositório (git clone);\r - Abrir o VS Code na pasta do projeto;\r - Iniciar um projeto node (npm init –y);\r - Instalar o cypress (npm install cypress –D);\r - Abrir o exemplo do cypress (npx cypress open);\r - Recriar os exemplos de testes:\r     - Login\r     - Pré-cadastro\r     - Produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamelaialmeida/ebac-modulo11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamelaialmeida/ebac-modulo11/issues"
+  },
+  "homepage": "https://github.com/pamelaialmeida/ebac-modulo11#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
